@@ -1,16 +1,39 @@
-## Hi there 👋
+# Привет! 👋 Я Никита
 
-<!--
-**Nikitzky/Nikitzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Developer in Progress
 
-Here are some ideas to get you started:
+Мне 17 лет. Изучаю Python с нуля и каждый день делаю новые проекты.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Сейчас моя цель — собрать сильное портфолио и выйти на первые реальные заказы.
+
+---
+
+## 🚀 Сейчас изучаю
+
+* Python
+* Git & GitHub
+* Pandas
+* OpenPyXL
+* Telegram Bot API *(скоро)*
+
+---
+
+## 📂 Мои проекты
+
+| Проект                  | Что умеет                                  |
+| ----------------------- | ------------------------------------------ |
+| 📊 Excel Sales Analyzer | Анализирует продажи и создаёт Excel-отчёт. |
+| 💰 Finance Assistant    | Считает доходы, расходы и накопления.      |
+| 🎮 Guess The Number     | Игра с подсчётом попыток.                  |
+
+---
+
+## 🎯 Цель на 2026
+
+* [x] Освоить основы Python.
+* [x] Научиться работать с GitHub.
+* [ ] Сделать Telegram-бота.
+* [ ] Изучить SQL.
+* [ ] Создать своё веб-приложение.
+* [ ] Получить первый проект на Python.
+
